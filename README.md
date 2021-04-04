@@ -1,8 +1,12 @@
 # <h1 align="center">Ignite Challenge (Trail ReactJS - Chapter II)</h1>
 
+<br>
+
 <h2 align="center">Challenge 02 - Creating a shopping cart hook (Rocketseat)</h2>
 
-## 📑 Sobre o Desafio
+<br>
+
+### 📑 Sobre o Desafio
 <p>Nesse desafio, foi criado uma aplicação para colocar em prática alguns conceitos do ReactJS.
   Essa será uma aplicação onde o seu principal objetivo é criar um hook para gerenciar um carrinho de compras. Acesso a duas páginas, um componente e um hook para implementar as funcionalidades. :octocat:</p>
   
